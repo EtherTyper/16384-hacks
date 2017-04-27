@@ -126,9 +126,9 @@ GameManager.prototype.move = function (direction) {
         var next      = self.grid.cellContent(positions.next);
 
         // Only one merger per row traversal?
-        if (next && next.value === tile.value && !next.mergedFrom) {
+        if (next && !next.mergedFrom) {
           var multiply = Math.random() < 0.986 ? 2 : 4;
-          var merged = new Tile(positions.next, tile.value * multiply);
+          var merged = new Tile(positions.next, Math.max(tile.value, next.value) * multiply);
           merged.mergedFrom = [tile, next];
 
           self.grid.insertTile(merged);
