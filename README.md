@@ -2,10 +2,10 @@
 
 Little hacks and modifications I made to the game of 16384!
 
-- [Zeno's 16384](https://github.com/EtherTyper/16384-hacks)
-- [Depressing 16384](https://github.com/EtherTyper/16384-hacks/tree/depression)
-- [Fast 16384](https://github.com/EtherTyper/16384-hacks/tree/exponential)
-- [Random 16384](https://github.com/EtherTyper/16384-hacks/tree/random)
+- [Zeno's 16384](zeno/)
+- [Depressing 16384](depression/)
+- [Fast 16384](exponential/)
+- [Random 16384](random/)
 
 This product is derived from work by Victor Melnik and Gabriele Cirulli.
 
@@ -16,7 +16,3 @@ You can find the same information in the [contributing guide.](https://github.co
 
 ## License
 All 16384 hacks are licensed under the [MIT license.](https://github.com/EtherTyper/16384-hacks/blob/master/LICENSE.txt)
-
-## Donations
-
-You can donate to Gabriele Cirulli at his Bitcoin address, `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`.

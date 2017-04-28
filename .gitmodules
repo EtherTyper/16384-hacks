@@ -1,0 +1,16 @@
+[submodule "zeno"]
+	path = zeno
+	url = https://github.com/EtherTyper/16384-hacks.git
+	branch = zeno
+[submodule "depression"]
+	path = depression
+	url = https://github.com/EtherTyper/16384-hacks.git
+	branch = depression
+[submodule "exponential"]
+	path = exponential
+	url = https://github.com/EtherTyper/16384-hacks.git
+	branch = exponential
+[submodule "random"]
+	path = random
+	url = https://github.com/EtherTyper/16384-hacks.git
+	branch = random
