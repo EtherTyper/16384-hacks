@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 16384 Hacks
 
-You can use the [editor on GitHub](https://github.com/EtherTyper/16384-hacks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Little hacks and modifications I made to the game of 16384!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Zeno's 16384](https://github.com/EtherTyper/16384-hacks)
+- [Depressing 16384](https://github.com/EtherTyper/16384-hacks/tree/depression)
+- [Fast 16384](https://github.com/EtherTyper/16384-hacks/tree/exponential)
+- [Random 16384](https://github.com/EtherTyper/16384-hacks/tree/random)
 
-### Markdown
+This product is derived from work by Victor Melnik and Gabriele Cirulli.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
+Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
-```markdown
-Syntax highlighted code block
+You can find the same information in the [contributing guide.](https://github.com/EtherTyper/16384-hacks/blob/zeno/CONTRIBUTING.md)
 
-# Header 1
-## Header 2
-### Header 3
+## License
+All 16384 hacks are licensed under the [MIT license.](https://github.com/EtherTyper/16384-hacks/blob/master/LICENSE.txt)
 
-- Bulleted
-- List
+## Donations
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EtherTyper/16384-hacks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can donate to Gabriele Cirulli at his Bitcoin address, `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`.
