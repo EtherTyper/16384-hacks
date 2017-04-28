@@ -15,4 +15,4 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 You can find the same information in the [contributing guide.](https://github.com/EtherTyper/16384-hacks/blob/zeno/CONTRIBUTING.md)
 
 ## License
-All 16384 hacks are licensed under the [MIT license.](https://github.com/EtherTyper/16384-hacks/blob/master/LICENSE.txt)
+All 16384 hacks are licensed under the [MIT license.](https://github.com/EtherTyper/16384-hacks/blob/master/LICENSE)
